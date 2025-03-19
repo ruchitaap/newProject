@@ -1,0 +1,8 @@
+i
+
+select * from rip_reg_action where IMPR_ID='CHAMP05882-01';
+seSELECT * FROM  rip_reg_action_spec_no where  RIP_ID='RIP02828';
+select * from rip_reg_action where z_number='Z_DUMMY1236';
+select * from rip_reg_action where objectkey='1188977227301';
+
+
